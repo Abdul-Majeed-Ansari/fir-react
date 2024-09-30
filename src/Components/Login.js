@@ -76,7 +76,7 @@ const Login = () => {
             <button type='submit'>Login</button>
             <button type='button' onClick={loginWithGoogle}>Login With Google</button>
             <button onClick={loginWithFacebook}>Login With Facebook</button>
-            <button type='button' onClick={loginWithGitHub} ></button>
+            <button type='button' onClick={loginWithGitHub} >Login With GitHub</button>
         </form>
     </div>
   )
